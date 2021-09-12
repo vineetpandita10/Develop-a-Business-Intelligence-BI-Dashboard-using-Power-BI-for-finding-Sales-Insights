@@ -2,7 +2,7 @@
 
 # Goal
 
-Find sales insights from the given dataset of 'Global Superstore'
+Find sales insights from the given dataset of 'Global Superstore'.
 
 # Steps
 
@@ -25,6 +25,14 @@ Find sales insights from the given dataset of 'Global Superstore'
 •Used tools like Filter, Field, Format, Bing worldmap viz and many more.
 
 <img src="https://user-images.githubusercontent.com/50957958/132980167-35991237-ead3-48b1-94f8-87543a5bf33e.gif" alt="alt text" width="850" height="450">
+
+# Findings
+
+• The average of Delivery days has increased from 4 days to 5 days in the last year.
+
+• The sales have increased every year continously for the last 4 years. 
+
+• Canon class 200 is the all time Profitable product & Cubify cubeX is the all the loss-making product.
 
 
 
