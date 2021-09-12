@@ -14,6 +14,8 @@ Find sales insights from the given dataset of 'Global Superstore'
 
 •In the Model tab, built the relation between all the 3 Tables.
 
+<img src="https://user-images.githubusercontent.com/50957958/132994422-468799f0-c15a-47dd-8591-72e82b17bc7a.PNG" alt="alt text" width="850" height="400">
+
 •In the power query editor, 
 
 
